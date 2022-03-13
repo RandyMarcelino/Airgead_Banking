@@ -1,0 +1,2 @@
+U:\Visual Studio 2019\Code Snippets\Visual C++\My Code Snippets\AirgeadBankingApp\Debug\AirgeadBankingApp.exe
+U:\Visual Studio 2019\Code Snippets\Visual C++\My Code Snippets\AirgeadBankingApp\Debug\AirgeadBankingApp.pdb

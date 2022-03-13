@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  StudentInvestment.cpp
+  Generating Code...
+U:\Visual Studio 2019\Code Snippets\Visual C++\My Code Snippets\AirgeadBankingApp\Source.cpp(78): warning C4715: 'askUserToRepeat': not all control paths return a value
+  AirgeadBankingApp.vcxproj -> U:\Visual Studio 2019\Code Snippets\Visual C++\My Code Snippets\AirgeadBankingApp\Debug\AirgeadBankingApp.exe
